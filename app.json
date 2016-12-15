@@ -1,0 +1,7 @@
+{
+  "name": "ChatUp Sample App",
+  "description": "A chat and communication app build with Node.js, Express.js, socket.io",
+  "repository": "https://github.com/Jual6332/ChatUp",
+  "logo": ""https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "socket.io"]
+}
